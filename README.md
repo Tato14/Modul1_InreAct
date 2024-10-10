@@ -5,8 +5,8 @@ Este repositorio contiene una serie de notebooks diseñados para introducir a lo
 ## **Contenido del Repositorio**
 
 1. [**Exploración de Datos y Detección de Sesgos**](#1-exploración-de-datos-y-detección-de-sesgos)
-2. [**Predicción de Enfermedades Considerando Sesgos**](#2-predicción-de-enfermedades)
-3. [**Agrupamiento de Pacientes y Análisis de Sesgos**](#3-agrupamiento-de-pacientes)
+2. [**Predicción de Enfermedades**](#2-predicción-de-enfermedades)
+3. [**Agrupamiento de Pacientes**](#3-agrupamiento-de-pacientes)
 4. [**Simulación de Decisiones Clínicas con Aprendizaje por Refuerzo**](#4-simulación-de-decisiones-clínicas-con-aprendizaje-por-refuerzo)
 
 ---
@@ -99,7 +99,7 @@ Este notebook implementa una simulación básica de decisiones clínicas utiliza
 - Alternativamente, puedes cargarlos en [Google Colab](https://colab.research.google.com/):
     Ve a Archivo > Subir notebook y selecciona el archivo `.ipynb` que deseas abrir.
 
-## **Trabajar Directamente en Colab**
+## **Trabajar Directamente en Google Colab**
 
  - Puedes abrir los notebook directamente en [Google Colab](https://colab.research.google.com/):
     - 1. Ve a Archivo > Abrir Cuaderno
