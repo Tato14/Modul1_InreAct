@@ -5,8 +5,8 @@ Este repositorio contiene una serie de notebooks diseñados para introducir a lo
 ## **Contenido del Repositorio**
 
 1. [**Exploración de Datos y Detección de Sesgos**](#1-exploración-de-datos-y-detección-de-sesgos)
-2. [**Predicción de Enfermedades Considerando Sesgos**](#2-predicción-de-enfermedades-considerando-sesgos)
-3. [**Agrupamiento de Pacientes y Análisis de Sesgos**](#3-agrupamiento-de-pacientes-y-análisis-de-sesgos)
+2. [**Predicción de Enfermedades Considerando Sesgos**](#2-predicción-de-enfermedades)
+3. [**Agrupamiento de Pacientes y Análisis de Sesgos**](#3-agrupamiento-de-pacientes)
 4. [**Simulación de Decisiones Clínicas con Aprendizaje por Refuerzo**](#4-simulación-de-decisiones-clínicas-con-aprendizaje-por-refuerzo)
 
 ---
@@ -95,6 +95,13 @@ Este notebook implementa una simulación básica de decisiones clínicas utiliza
 
 3. **Abrir los Notebooks:**
 
-- Puedes abrir los notebooks utilizando Jupyter Notebook o JupyterLab.
-- Alternativamente, puedes cargarlos en Google Colab:
+- Puedes abrir los notebooks utilizando [Jupyter Notebook](https://jupyter.org/install) o [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html).
+- Alternativamente, puedes cargarlos en [Google Colab](https://colab.research.google.com/):
     Ve a Archivo > Subir notebook y selecciona el archivo `.ipynb` que deseas abrir.
+
+## **Trabajar Directamente en Colab**
+
+ - Puedes abrir los notebook directamente en [Google Colab](https://colab.research.google.com/):
+    - 1. Ve a Archivo > Abrir Cuaderno
+    - 2. Ve a la pestaña "Github" y en la url añade la del repositorio: "https://github.com/Tato14/Modul1_InreAct"
+    - 3. Selecciona el notebook con el que quieres trabajar
