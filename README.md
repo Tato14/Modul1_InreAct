@@ -102,6 +102,6 @@ Este notebook implementa una simulación básica de decisiones clínicas utiliza
 ## **Trabajar Directamente en Google Colab**
 
  - Puedes abrir los notebook directamente en [Google Colab](https://colab.research.google.com/):
-    - 1. Ve a Archivo > Abrir Cuaderno
-    - 2. Ve a la pestaña "Github" y en la url añade la del repositorio: "https://github.com/Tato14/Modul1_InreAct"
-    - 3. Selecciona el notebook con el que quieres trabajar
+    - Ve a Archivo > Abrir Cuaderno
+    - Ve a la pestaña "Github" y en la URL añade la del repositorio: "https://github.com/Tato14/Modul1_InreAct"
+    - Selecciona el notebook con el que quieres trabajar
